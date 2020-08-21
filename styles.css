@@ -1,0 +1,16 @@
+
+body {color:red;}
+h1 {color:green;} 
+h1.black-border{border:3px solid black;
+text-align: center;}
+p {color: orange;font:italic small-caps bold 12px/30px Georgia, serif; }
+p.black-border{border:3px solid black;}
+li.green-background {background-color:green;}
+li.grey-background {background-color:grey}
+li {color: black;font-size: 18px; font: outline;}
+main.main-background {text-align: center;}
+header {font-size: 50px; color: black
+}
+body {background-image: url("paper.gif");
+    background-color: #cccccc;
+   }
